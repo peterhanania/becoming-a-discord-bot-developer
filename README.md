@@ -10,9 +10,9 @@ Hey there, Have you ever wanted to become a JavaScript node.js discord bot devel
 and much more!
 
 
-I'm making this tutorial since I found it really hard and confusing at the beginning, and watching others make the same mistakes that I did just made me write this to simplify creating discord bots and getting started into programming.
+### If you find this useful for you, or for others, feel free to leave a star ⭐ and follow me, it actually means a lot 😊
 
-If you find this useful for you, or for others, feel free to leave a star ⭐ and follow me, it actually means a lot 😊
+To begin with, I'm making this tutorial since I found it really hard and confusing at the beginning, and watching others make the same mistakes that I did just made me write this to simplify creating discord bots and getting started into programming.
 
 
 **THIS PROGRAM WILL TAKE YOU SOME TIME, DON'T RUSH IT, TAKE YOUR TIME OR YOU WILL NOT LEARN ANYTHING.** Before reading make sure you read [My Advice](#my-advice).
@@ -790,6 +790,6 @@ I advice you to check out these resources.
   
 **If you want me to add a certain resource, email me at `peter@pogy.xyz`.**
 
-Finally, If you liked this repository, feel free to leave a star ⭐ and follow me, it actually means a lot.
+### Finally, If you liked this repository, feel free to leave a star ⭐ and follow me, it actually means a lot.
 
 
