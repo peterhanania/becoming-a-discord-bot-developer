@@ -92,7 +92,7 @@ In our case, we will be using **discord.js** as a module to create a discord bot
 **Links:**
 * [Source](https://www.simplilearn.com/tutorials/nodejs-tutorial)
 * [NPM Website](https://www.npmjs.com/)
-* [Package Scripts - If Intrested](https://docs.npmjs.com/cli/v8/using-npm/scripts/)
+* [Package Scripts - If Interested](https://docs.npmjs.com/cli/v8/using-npm/scripts/)
 </details>
 
 <details style="cursor: pointer;" >
@@ -129,7 +129,7 @@ If you are not familiar with HTTP requests, don't worry. But if you want to lear
 
 Discord's API is based around two core layers, a HTTPS/REST API for general operations, and persistent secure WebSocket based connection for sending and subscribing to real-time events. The most common use case of the Discord API will be providing a service, or access to a platform through the OAuth2 API.
 
-Now you don't have to know much about this, but if you're intrested [Read More](https://discord.com/developers/docs/reference).
+Now you don't have to know much about this, but if you're Interested [Read More](https://discord.com/developers/docs/reference).
 </details>
 
 <details style="cursor: pointer;" >
