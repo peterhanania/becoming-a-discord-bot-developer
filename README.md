@@ -295,7 +295,7 @@ Now that our project is setup it's time to write the code!
 
 Before you start make sure you know what `variables`, `functions`, `conditional statements`, `loops`, and `objects` are. If you have something missing revisit the tutorial and search it up.
  
-Once you add your bot to a server, the next step is to start coding and get it online! Paste this code into the file you created earlier, and using the terminal type `node index.js`
+Once you add your bot to a server, the next step is to start coding and get it online! Paste this code into the file you created earlier, save it by pressing CMD | CTRL + S, and then using the terminal type `node index.js`
 
 ```js
 // Require the necessary discord.js classes
@@ -375,7 +375,7 @@ If you're with a team make sure you send them this guide, and make sure they und
 
 **3-** **Pick the right IDE**. If you're with a team, make sure they use the same IDE. If you're alone, pick a IDE that you like the most.
 
-**4-** **Writing Fast Code.** How do I write fast code? First Cache Settings that you will require in the `interactionCreate event`. Let's say every time a user requests a slash command, you will need to check if the user is in a guild that has existing data in the database. If you're actually going to request data from the database its gonna be much slower than caching. Caching is basically storing some data in the memory. You can cache with maps, discord collections, or Redis.
+**4-** **Writing Fast Code.** How do I write fast code? First Cache Settings that may slow down your bot. Usually events like the `interactionCreate event`. Let's say every time a user requests a slash command, you will need to check if the user is in a guild that has existing data in the database. If you're actually going to request data from the database its gonna be much slower than caching. Caching is basically storing some data in the memory. You can cache with maps, discord collections, or Redis.
 
 As an example;
 ```js
