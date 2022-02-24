@@ -770,7 +770,7 @@ I advice you to check out these resources.
 * [Travery Media](https://www.youtube.com/c/TraversyMedia). Great General Coding Tutorials.
 
 **2- Discord Coding Servers**
-* [Worn Off Keys](https://discord.gg/wornoffkeys). Once of the best discord servers to ask for discord help. Very welcoming community.
+* [Worn Off Keys](https://discord.gg/wornoffkeys). One of the best discord servers to ask for discord help. Very welcoming community.
 * [Discord.js](https://discord.gg/djs). The official `discord.js` server to help you solve errors and get general help.
 * [The Coding Den](https://discord.gg/code) & [The Programmer's Hangout](https://discord.gg/programming). Great places to chat and meet developers.
 * [Discord Developers](https://discord.gg/discord-developers). Receive discord API Updates.
